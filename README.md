@@ -1,3 +1,5 @@
+# Welcome, I'm Carlos Araujo 👋🏻
+
 # 💫 About Me:
 👨‍💻 I'm Full Stack Developer & UX/UI Designer<br>🔭 I’m currently working with Angular & Java
 
