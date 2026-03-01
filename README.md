@@ -1,7 +1,7 @@
 # Welcome, I'm Carlos Araujo 👋🏻
 
 ## 💫 About Me:
-👨‍💻 I'm Full Stack Developer & UX/UI Designer<br>🔭 I’m currently working with Angular & Java
+👨‍💻 I'm Full Stack Developer & UX / UI Designer<br>🔭 I’m currently working with Angular & Java
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Carloos_93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-araujo-galvan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ca.galvan@outlook.com) 
